@@ -16,16 +16,16 @@ class App extends Component {
             <div className={styles.box}>
             {/* <Link to="/"><div className={styles.boxleft}>Vauxlab</div></Link> */}
                <div className={styles.boxright}>
-                  <Link to="/"><p className={ styles.sel }>HOME</p></Link> 
-                  <Link to="/works"><p className={ styles.selected} >CONTACT</p></Link>
+                  <Link to="personalPage/"><p className={ styles.sel }>HOME</p></Link> 
+                  <Link to="/contact"><p className={ styles.selected} >CONTACT</p></Link>
                </div>
             </div>
          </header>
 
          {/* 内容区 */}
          <section className={styles.content}>
-           <Route path="/" exact component={ HomePage } />
-           <Route path="/works" exact component={ ContactPage } />
+           <Route path="/personalPage" exact component={ HomePage } />
+           <Route path="/contact" exact component={ ContactPage } />
            <Route path="/works/:id" exact component={ WorkPageDetail } />
          </section>
 
