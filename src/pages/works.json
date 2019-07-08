@@ -7,16 +7,18 @@
             "title":"Shareblog",
             "brief":"A community that similar to 'Medium' which allows user to read, write and share articles",
             "tags":[ "ReactJS","styled-components","react-redux","immutable.js","redux-thunk","axios" ],
-            "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/Ard175FFMkRwJE1PIO04mz4Y1ETIfUyMO3zx.ZLjMw8!/o/dMUAAAAAAAAA&ek=1&kp=1&pt=0&bo=sgKSArICkgIRECc!&t=5&tl=3&su=024226945&tm=1562299200&sce=0-12-12&rf=2-9",
+            "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/4yl14aujPpuiBl2L*1cS1NTwY7.Q.*KhxO7b7QCffnY!/o/dFMBAAAAAAAA&ek=1&kp=1&pt=0&bo=sgKSArICkgIRECc!&t=5&tl=3&su=0236955905&tm=1562612400&sce=0-12-12&rf=2-9",
             "github": "https://github.com/haofei0124/ShareBlog",
+            "demo": "https://shareblog.netlify.com/",
             "id":1
         },
         {
             "title":"CMS for Bike-Sharing",
             "brief":"management of open or cancel Service for single city, order, user, etc. While you can check detail of each order in the map",
             "tags":[ "ReactJS","Ant Design","LESS","Promise","axios", "Echarts" ],
-            "cover":"http://a2.qpic.cn/psb?/V11mGBPF4GfOzK/ZkBrx48mXQqAMwomIHoI2wu8LSunUXZ1W*15JKTvybc!/b/dDEBAAAAAAAA&ek=1&kp=1&pt=0&bo=PQKMAj0CjAIRFyA!&tl=3&vuin=2757362025&tm=1562302800&sce=60-1-1&rf=0-0",
+            "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/N2DgVJU5m*VeSma4a68dvclr2y6HIRKu2zO3gSqTT1A!/o/dIMAAAAAAAAA&ek=1&kp=1&pt=0&bo=PQKMAj0CjAIRECc!&t=5&tl=3&su=023825329&tm=1562612400&sce=0-12-12&rf=2-9",
             "github": "https://github.com/haofei0124/BikeSharingMS",
+            "demo": "http://glamorous-unit.surge.sh/",
             "id":2
         },
         {
@@ -25,6 +27,7 @@
             "tags":[ "ReactJS","Bootstrap","Webpack","SASS","AJAX", "JQuery"] ,
             "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/tln99i3ZayIBz9xLNwq7w1JhktOvZNLYLSDvupiD34s!/o/dMMAAAAAAAAA&ek=1&kp=1&pt=0&bo=AAKSAgACkgIRECc!&t=5&tl=3&su=0241866641&tm=1562302800&sce=0-12-12&rf=2-9",
             "github": "https://github.com/haofei0124/e-commerceMS",
+            "demo": "http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/tln99i3ZayIBz9xLNwq7w1JhktOvZNLYLSDvupiD34s!/o/dMMAAAAAAAAA&ek=1&kp=1&pt=0&bo=AAKSAgACkgIRECc!&t=5&tl=3&su=0241866641&tm=1562302800&sce=0-12-12&rf=2-9",
             "id":3
         },
         {
@@ -33,6 +36,7 @@
             "tags":[ "Javascript","HTML5","CSS3" ],
             "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/spcaPNaRDbYOpx4J0Qc0jTUBs9SyT.YIIE*7AZn6zNs!/o/dL8AAAAAAAAA&ek=1&kp=1&pt=0&bo=vAG9AbwBvQERECc!&t=5&tl=3&su=0118845761&tm=1562299200&sce=0-12-12&rf=2-9",
             "github": "https://github.com/haofei0124/gobang",
+            "demo": "https://haofei0124.github.io/gobang/gohang.html",
             "id":4
         },
         {
@@ -41,6 +45,7 @@
             "tags":[ "HTML5","CSS3" ],
             "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/pMhzXcaD0n5dTb5zBv5jJgaZucjrK96vDdV9vTro3Y4!/o/dDQBAAAAAAAA&ek=1&kp=1&pt=0&bo=tgKJArYCiQIRECc!&t=5&tl=3&su=0244155969&tm=1562302800&sce=0-12-12&rf=2-9",
             "github": "https://github.com/haofei0124/HITPress",
+            "demo": "https://haofei0124.github.io/HITPress/index.html",
             "id":5
         },
         {
@@ -49,6 +54,7 @@
             "tags":[ "HTML5", "CSS3" ],
             "cover":"http://r.photo.store.qq.com/psb?/V11mGBPF4GfOzK/g.Uvof0thnJLDDhaA3YkmtUtRQ2EI6IOoWXcYfeFV0A!/o/dMMAAAAAAAAA&bo=8AKLAvACiwIRECc!",
             "github": "https://github.com/haofei0124/restaurantPage",
+            "demo": "https://haofei0124.github.io/restaurantPage/index.html",
             "id":6
         }
     ]

@@ -16,7 +16,7 @@ class App extends Component {
             <div className={styles.box}>
             {/* <Link to="/"><div className={styles.boxleft}>Vauxlab</div></Link> */}
                <div className={styles.boxright}>
-                  <Link to="/personalPage"><p className={ styles.sel }>HOME</p></Link> 
+                  <Link to="/personalPage"><p className={ styles.selected }>HOME</p></Link> 
                   <Link to="/contact"><p className={ styles.selected} >CONTACT</p></Link>
                </div>
             </div>

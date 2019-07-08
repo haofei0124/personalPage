@@ -12,7 +12,7 @@
     .selected{
       color: #333!important;
       padding-bottom: 2px;
-      border-bottom: 1.2px solid #333;
+      // border-bottom: 1.2px solid #333;
     }
     
   }
@@ -24,8 +24,9 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
+      // padding-bottom: 10px;
       a:hover { 
-        text-decoration:none; 
+        // text-decoration:none; 
       }
       .boxleft{
         font-size: 20px;
