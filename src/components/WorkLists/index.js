@@ -1,7 +1,6 @@
 
 import React, { Component } from 'react';
 import styles from './work.module.scss';
-import { Button } from 'antd';
 // import { Link } from 'react-router-dom';
 
 export default ({ dataSource }) =>{
