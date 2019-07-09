@@ -13,7 +13,8 @@ export default class ContactPage extends React.Component {
                     <div className={ styles.title }>
                         <h3>CONTACT ME</h3>
                     </div>
-                        <h1>Cellphone: (778)-798-6706</h1>
+                        <h1 style={{fontSize:16}}>Cellphone: (778)-798-6706</h1>
+                        <h1 style={{marginTop: 10, fontSize:16}}>Email: chenghaofei@hotmail.com</h1>
                     <div style={{marginTop: 60}} >
                         <a 
                         href='http://www.linkedin.com/in/haofei-cheng-75745371/' 
